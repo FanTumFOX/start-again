@@ -1,3 +1,15 @@
+@font-face {
+    font-family: GothamPro;
+    src: url(/Fonts/GothamPro/GothamPro-Bold.ttf);
+    src: url(/Fonts/GothamPro/GothamPro-Black.ttf);
+    src: url(/Fonts/GothamPro/GothamPro-Light.ttf);
+    src: url(/Fonts/GothamPro/GothamPro.ttf);
+}
+
+body {
+    font-family: GothamPro-Bold;
+}
+
 .vk:hover {
     color: #1bd161bd;
 }
