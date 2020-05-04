@@ -1,0 +1,23 @@
+.vk:hover {
+    color: #1bd161bd;
+}
+
+.vk {
+    color: rgb(255, 0, 0);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    background: url(../img/1.jpg) no-repeat center top / cover;
+}
