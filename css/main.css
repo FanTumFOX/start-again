@@ -79,7 +79,7 @@ div {
 
 .osno {
     text-align: center;
-    padding-top: 720px;
+    padding-top: 920px;
     margin: 0;
 }
 
@@ -96,15 +96,34 @@ div {
     font-family: GothamPro;
     font-size: 30px;
     margin: 0 auto;
-    color: #5c5c5c;
-    padding-top: 700px;
+    color: #808080;
+    padding-top: 500px;
+}
+
+.unfd {
+    margin: 0;
 }
 
 .view {
     height: 700px;
-    color: #000;
+    color: #fff;
+    padding-bottom: 1400px;
+    background: #fff;
 }
 
 .found .title {
     padding-bottom: 80px;
+    color: #000;
+}
+
+.cont {
+    background: #fff;
+}
+
+.cont2 {
+    background: #fff;
+}
+
+.block {
+    height: 370px;
 }
