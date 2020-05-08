@@ -41,6 +41,8 @@ div {
 .container {
     width: 1000px;
     margin: 0 auto;
+    min-width: 400px;
+    min-height: 300px;
 }
 
 .menu {
