@@ -108,9 +108,18 @@ div {
 
 .view {
     height: 700px;
-    color: #fff;
+    color: #000;
     padding-bottom: 1400px;
+    padding-top: 500px;
     background: #fff;
+}
+
+.view div {
+    margin: 0 auto;
+    height: 100px;
+    width: 50px;
+    background: #000;
+    float: left;
 }
 
 .found .title {
@@ -119,10 +128,6 @@ div {
 }
 
 .cont {
-    background: #fff;
-}
-
-.cont2 {
     background: #fff;
 }
 
