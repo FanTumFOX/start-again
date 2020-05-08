@@ -43,6 +43,7 @@ div {
     margin: 0 auto;
     min-width: 400px;
     min-height: 300px;
+    padding: 0;
 }
 
 .menu {
@@ -110,16 +111,31 @@ div {
     height: 700px;
     color: #000;
     padding-bottom: 1400px;
-    padding-top: 500px;
+    padding-top: 800px;
     background: #fff;
+    width: 740px;
 }
 
-.view div {
+.vblch {
     margin: 0 auto;
-    height: 100px;
-    width: 50px;
+    height: 500px;
+    width: 350px;
+    display: block;
     background: #000;
     float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+
+.vbl {
+    background: #fff;
+    margin-right: 20px;
+}
+
+.vbl :last-child {
+    margin-right: 0px;
 }
 
 .found .title {
